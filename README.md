@@ -1,3 +1,3 @@
-![Cover](images/Cover.png)
+![Cover](images/cover.png)
 # DoorDash Customer Purchase Behavior Analysis
 Excel analysis of DoorDash customer purchasing behavior
