@@ -28,7 +28,7 @@ This analysis uses a dataset of 2,000+ customer records, with features capturing
 
 Across all customers, spending drops significantly as the number of kids at home increases. Customers with no kids spend an average of ~$846, compared to ~$183 for those with one child and ~$107 for those with two.
 
-Interestingly, this pattern holds even within Campaign 6 customers, where overall spending is higher. In that segment, customers without kids spend over ~$1,250 on average, while those with children still spend substantially less.
+
 
 This suggests that household composition is a major driver of customer value. While marketing campaigns can increase spending, underlying lifestyle factors—such as having children—still heavily influence purchasing behavior.
 
