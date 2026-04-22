@@ -33,7 +33,7 @@ Across all customers, spending drops significantly as the number of kids at home
 This suggests that household composition may be a major driver of customer spending behavior, with smaller households showing significantly higher average spending levels.
 ![Kids vs Spending](images/kids_spending.png)
 
-## 2. Higher Income Customers Spend Significantly More
+## Key Finding #2: Higher Income Customers Spend Significantly More
 
 Customer income showed a strong positive relationship with total spending. As income increased, customer spending rose substantially across the dataset.
 
@@ -42,7 +42,7 @@ The scatter plot produced an R² value of ~0.67, suggesting income explains a si
 This insight could help businesses better target high-value customer segments and optimize premium marketing campaigns.
 ![Income vs Spending](images/income_vs_spending.png)
 
-## 3. Campaign 6 Customers Spend Significantly More
+## Key Finding #3: Campaign 6 Customers Spend Significantly More
 
 Customers who accepted Campaign 6 spent substantially more than the average customer.
 
@@ -65,5 +65,4 @@ These findings suggest that demographic factors and marketing engagement can pla
 
 
 ## 🛠 Tools Used
-- Excel (Pivot Tables, Charts, Data Cleaning)
-
+Excel (Pivot Tables, Data Visualization, Data Cleaning)
