@@ -51,34 +51,19 @@ While the average customer spent approximately ~$564, Campaign 6 responders spen
 This suggests that campaign engagement is strongly associated with higher-value customers and may help identify highly profitable customer segments.
 ![Campaign 6 Spending](images/campaign6_spending.png)
 
+## Key Takeaways
+
+This analysis revealed several strong indicators of high-value customer behavior:
+
+- Customers with fewer children spent significantly more on average
+- Higher income strongly correlated with increased customer spending
+- Campaign-engaged customers demonstrated substantially higher spending behavior
+
+These findings suggest that demographic factors and marketing engagement can play a major role in customer value segmentation and targeting strategy.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The data was analyzed in Excel using pivot tables and visualizations to identify patterns in customer activity and highlight key trends.
 
 
 ## 🛠 Tools Used
 - Excel (Pivot Tables, Charts, Data Cleaning)
 
----
-
-## ✅ Conclusion
-This analysis highlights how customer behavior directly impacts revenue.  
-By focusing on high-value users and optimizing ordering patterns, businesses like DoorDash can increase profitability and customer retention.
