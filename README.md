@@ -3,65 +3,62 @@
 # DoorDash Customer Purchase Behavior Analysis
 
 ## 📌 Overview
-What drives DoorDash customers to order more—and spend more?  
-This project explores customer purchasing behavior to uncover trends in order frequency, spending patterns, and high-value users.
+What drives DoorDash customers to order more and spend more?
 
----
 
-## 🎯 Objective
-The goal of this analysis is to:
-- Identify patterns in customer ordering behavior
-- Understand what drives higher spending
-- Highlight key insights that could improve business decisions
 
----
+The other night, it was late, I was hungry, and like a lot of people, I instinctively opened DoorDash. That made me stop and think what actually drives someone to order more often, spend more money, and keep coming back.
 
-## 📊 Dataset
-- Source: (put where you got it from or “simulated dataset” if needed)
-- Tool Used: Excel
-- Key Columns:
-  - Customer ID
-  - Order Date
-  - Order Value
-  - Frequency of Orders
+This project analyzes customer purchasing behavior to identify patterns in order frequency, spending habits, and what separates high-value users from the rest.
 
----
 
-## 🔍 Key Insights
+## Why This Analysis Matters
 
-### 1. 📅 Ordering Patterns
-Customers tend to order more frequently on specific days/times.
+Understanding customer behavior isn’t just interesting—it directly impacts revenue. 
+By identifying what drives users to order more frequently and spend more per order, businesses like DoorDash can optimize promotions, improve retention, and increase overall profitability.
 
-![Ordering Trends](images/order_trends.png)
+In this analysis, we’ll break down key patterns in customer ordering habits to answer a simple question:
+what separates casual users from high-value customers?
 
-👉 Insight: Peak ordering times suggest when promotions would be most effective.
+## Dataset
 
----
+This analysis uses a dataset of 2,000+ customer records, with features capturing purchasing behavior such as order frequency, total spending, and engagement across different channels.
 
-### 2. 💰 Spending Behavior
-A small percentage of customers generate a large portion of revenue.
+### 1. Household Structure Strongly Impacts Spending
 
-![Revenue Chart](images/revenue.png)
+Across all customers, spending drops significantly as the number of kids at home increases. Customers with no kids spend an average of ~$846, compared to ~$183 for those with one child and ~$107 for those with two.
 
-👉 Insight: High-value customers should be targeted for retention strategies.
+Interestingly, this pattern holds even within Campaign 6 customers, where overall spending is higher. In that segment, customers without kids spend over ~$1,250 on average, while those with children still spend substantially less.
 
----
+This suggests that household composition is a major driver of customer value. While marketing campaigns can increase spending, underlying lifestyle factors—such as having children—still heavily influence purchasing behavior.
 
-### 3. 🔁 Customer Retention
-Repeat customers contribute significantly more over time.
+![Kids vs Spending](images/kids_spending.png)
 
-![Retention Chart](images/retention.png)
 
-👉 Insight: Improving retention can drive long-term revenue growth.
 
----
 
-## 📈 Business Recommendations
-- Focus marketing efforts during peak order times
-- Offer incentives for repeat purchases
-- Create loyalty programs for high-value customers
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The data was analyzed in Excel using pivot tables and visualizations to identify patterns in customer activity and highlight key trends.
+
 
 ## 🛠 Tools Used
 - Excel (Pivot Tables, Charts, Data Cleaning)
