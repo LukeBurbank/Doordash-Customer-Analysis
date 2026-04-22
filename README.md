@@ -24,16 +24,23 @@ what separates casual users from high-value customers?
 
 This analysis uses a dataset of 2,000+ customer records, with features capturing purchasing behavior such as order frequency, total spending, and engagement across different channels.
 
-### 1. Household Structure Strongly Impacts Spending
+## Key Finding #1: Household Structure Impacts Spending
 
 Across all customers, spending drops significantly as the number of kids at home increases. Customers with no kids spend an average of ~$846, compared to ~$183 for those with one child and ~$107 for those with two.
 
 
 
-This suggests that household composition is a major driver of customer value. While marketing campaigns can increase spending, underlying lifestyle factors—such as having children—still heavily influence purchasing behavior.
-
+This suggests that household composition may be a major driver of customer spending behavior, with smaller households showing significantly higher average spending levels.
 ![Kids vs Spending](images/kids_spending.png)
 
+## 2. Higher Income Customers Spend Significantly More
+
+Customer income showed a strong positive relationship with total spending. As income increased, customer spending rose substantially across the dataset.
+
+The scatter plot produced an R² value of ~0.67, suggesting income explains a significant portion of customer spending behavior.
+
+This insight could help businesses better target high-value customer segments and optimize premium marketing campaigns.
+![Income vs Spending](images/income_vs_spending.png)
 
 
 
