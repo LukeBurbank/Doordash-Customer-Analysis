@@ -6,7 +6,7 @@
 What drives DoorDash customers to order more and spend more?
 
 
-
+----
 The other night, it was late, I was hungry, and like a lot of people, I instinctively opened DoorDash. That made me stop and think what actually drives someone to order more often, spend more money, and keep coming back.
 
 This project analyzes customer purchasing behavior to identify patterns in order frequency, spending habits, and what separates high-value users from the rest.
