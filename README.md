@@ -42,7 +42,14 @@ The scatter plot produced an R² value of ~0.67, suggesting income explains a si
 This insight could help businesses better target high-value customer segments and optimize premium marketing campaigns.
 ![Income vs Spending](images/income_vs_spending.png)
 
+## 3. Campaign 6 Customers Spend Significantly More
 
+Customers who accepted Campaign 6 spent substantially more than the average customer.
+
+While the average customer spent approximately ~$564, Campaign 6 responders spent about ~$917 on average — over 60% higher.
+
+This suggests that campaign engagement is strongly associated with higher-value customers and may help identify highly profitable customer segments.
+![Campaign 6 Spending](images/campaign6_spending.png)
 
 
 
